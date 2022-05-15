@@ -1,0 +1,7 @@
+name: Shulker
+version: '${project.version}'
+main: me.dan.shulker.ShulkerPlugin
+depend:
+  - WorldGuard
+  - PluginAPI
+api-version: 1.16
